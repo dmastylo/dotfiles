@@ -9,6 +9,7 @@ call vundle#begin() " alternatively, pass a path where Vundle should install plu
 " let Vundle manage Vundle, required
 Plugin 'VundleVim/Vundle.vim'
 
+" Hey Thurnis!
 " The following are examples of different formats supported.
 " Keep Plugin commands between vundle#begin/end.
 " plugin on GitHub repo
@@ -17,6 +18,7 @@ Plugin 'tpope/vim-fugitive'
 " plugin from http://vim-scripts.org/vim/scripts.html
 "Plugin 'L9'
 
+" Hey Thurnis.
 " Git plugin not hosted on GitHub
 "Plugin 'git://git.wincent.com/command-t.git'
 
@@ -24,12 +26,14 @@ Plugin 'tpope/vim-fugitive'
 " Pass the path to set the runtimepath properly.
 Plugin 'rstacruz/sparkup', {'rtp': 'vim/'}
 
+" Thurnis. Hey Thurnis.
 " Install L9 and avoid a Naming conflict if you've already installed a " different version somewhere else.
 Plugin 'ascenator/L9', {'name': 'newL9'}
 
 " Sidebar directories and files
 "Plugin 'scrooloose/nerdtree'
 
+" brrrrap
 " Highlights letters in current line for easier f/F/t/T traversal
 Plugin 'unblevable/quick-scope'
 
